@@ -1,13 +1,8 @@
 package reactiontimer;
 
-import java.util.LinkedList;
-import java.util.Queue;
 import java.util.Scanner;
 
-/**
- *
- * @author hayde
- */
+
 public class ReactionTimer {
 
     /**
@@ -32,3 +27,4 @@ public class ReactionTimer {
     }
     
 }
+
